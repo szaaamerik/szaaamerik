@@ -1,5 +1,4 @@
 <h1 align="center">Hi, im szaamerik</h1>
-<h3 align="center">A Programmer and Forza Modder.</h3>
 
 - 🔭 I’m currently working on [Forza Mods](https://github.com/ForzaMods).
 
