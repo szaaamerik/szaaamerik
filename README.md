@@ -36,7 +36,7 @@ I previously worked on this tool, which is entirely my project. I'm not sure if 
 
 ## [Forza Mods Car Table](https://github.com/ForzaMods/Car-Table)
 
-I fully developed the V1 version of this tool. I don't claim credit for anything apart from the the UI in the V2 version, I contributed to its creation.
+I fully developed the V1 version of this tool. While I don't claim credit for anything apart from the the UI in the V2 version, I contributed to its creation.
 
 ## [Forza Mods Mod Manager](https://github.com/ForzaMods/Mod-Manager)
 
