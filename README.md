@@ -28,7 +28,7 @@ This tool is not finished yet, so my repository is private. Its purpose is to be
 
 ## [Forza Mods AIO](https://github.com/ForzaMods/AIO)
 
-I'm currently working on the unreleased V2 version of this tool.
+I'm currently working on the V2 version of this tool.
 
 ## [Forza Mods Fov Menu](https://github.com/ForzaMods/Fov-Menu)
 
