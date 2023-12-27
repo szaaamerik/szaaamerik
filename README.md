@@ -24,7 +24,7 @@ Here's a list of the projects I've started and worked on:
 
 ## [Lite Uninstaller](https://github.com/szaaamerik/Lite-Uninstaller)
 
-This tool is not finished yet, so my repository is private. Its purpose is to be a free and open source application uninstaller, similar to Revo or Uninstall Tool.
+This tool is not finished yet. Its purpose is to be a free and open source application uninstaller, similar to Revo or Uninstall Tool.
 
 ## [Forza Mods AIO](https://github.com/ForzaMods/AIO)
 
