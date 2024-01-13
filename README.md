@@ -44,7 +44,7 @@ I'm the one to start the foundation for this project. It's not finished. It hasn
 
 ## [Forza Mods Website](https://github.com/ForzaMods/website)
 
-I created this website, one of my first projects that went public. It was rushed due to the necessity of including most of the guides on it. I abandoned it since I dont like web development.
+I created the V1 version of this website, one of my first projects that went public. It was rushed due to the necessity of including most of the guides on it. I abandoned it since I dont like web development.
 
 ## [Forza Mods Live Editing](https://github.com/ForzaMods/Forza-Mods-Live-Editing)
 
