@@ -1,0 +1,19 @@
+[
+    {
+        "id": 69,
+        "Email": "test@outlook.com",
+        "FullName": "test",
+        "LastChargeDate": "2024-02-07 19:49:56",
+        "LastChargeStatus": "Paid",
+        "NextChargeDate": "2024-03-07 00:00:00",
+        "CampaignLifetimeSupportCents": 5,
+        "CurrentlyEntitledAmountCents": 5,
+        "LifetimeSupportCents": 5,
+        "PledgeCadence": 1,
+        "PledgeRelationshipStart": "2024-02-07 19:49:53",
+        "WillPayAmountCents": 0,
+        "ExpirationDate": "9999-03-09 19:49:56",
+        "HardwareID": "",
+        "userCode": 1
+    }
+]
